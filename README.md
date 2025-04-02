@@ -96,9 +96,11 @@ Hint: The number is between 55 and 65.
 
 ---
 
-## Author
+## Acknowledgments
 
 This project was created as a fun programming exercise to practice Python fundamentals and game logic development. Feel free to contribute, provide feedback, or use the code for your own projects!
+
+Built as part of the Python learning roadmap: https://roadmap.sh/projects/number-guessing-game
 
 ---
 
