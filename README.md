@@ -20,7 +20,7 @@ Welcome to the **Guess-the-Number Game**, an interactive number guessing game wh
 
 1. Run the script in a Python interpreter:
    ```bash
-   python guess_the_number.py
+   python Number_Guessing_Game.py
    ```
 
 2. Select a difficulty level by entering one of the following options:
